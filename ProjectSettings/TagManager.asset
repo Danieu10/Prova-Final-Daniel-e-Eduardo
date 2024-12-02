@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - fase2
+  - chao
+  - fase3
+  - fase 5
+  - vitoria
+  - cherry
+  - inimigo
+  - vira
+  - fase4
+  - fase5
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - inimigo
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: fundo
+    uniqueID: 3995184217
+    locked: 0
+  - name: player
+    uniqueID: 3986976337
+    locked: 0
+  - name: "decora\xE7\xE3o"
+    uniqueID: 2082275869
+    locked: 0
+  - name: "decora\xE7\xE3o fundo"
+    uniqueID: 3015455589
+    locked: 0
